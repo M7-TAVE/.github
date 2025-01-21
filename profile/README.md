@@ -27,7 +27,6 @@
 #### 인기 여행지에 대한 항공사별 수하물 규정, 환율, 맛집, 관광지, 기념품 정보 제공 <br>
 ![image](https://github.com/user-attachments/assets/aa0f3262-a694-47c0-80ea-408981936d78)
 
-
 <br/>
 
 ## 🛠️ Technology Stack
@@ -41,6 +40,7 @@
 <br>
 ### Others
 <img src="https://img.shields.io/badge/ Swagger-6DB33F?style=for-the-social&logo=swagger&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff"> <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> <img src="https://img.shields.io/badge/ Notion-000000?style=for-the-social&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/ Discord-5865F2?style=for-the-social&logo=discord&logoColor=white"> 
+
 <br/>
 
 ## 👥 Team Member
