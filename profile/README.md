@@ -1,39 +1,30 @@
-# AI기반 차세대 갤러리 앱 Pickle
->Tave 13기 팀 23456 연합 프로젝트 <대상🏆> 수상 (24.05.11~24.07.21)<br>
+# 여행 준비를 더 쉽게, 여행가방
+>Tave 14기 팀 M7 연합 프로젝트
 
-![Frame](https://github.com/user-attachments/assets/5ba6ef3a-a146-48a6-8fa8-60521cf46aa1)
-
+![image](https://github.com/user-attachments/assets/6d97fd8b-448c-4b23-b3f3-c6d27164b656)
 
 ## 🤔Project Intention
+준비부터 실시간 정보 제공까지, 개인 맞춤형 추천과 간편한 UI로 완벽한 여행을 지원하는 올인원 웹 서비스
 
-> #### 마음에 드는 사진만 알아서 정리해주면 편하지 않을까?
+> ### 여행 초보자가 준비 과정에서 필요한 물품을 정리하고 정보를 찾는 데 많은 시간이 소요!
 
-- 갤러리를 정리하지 않아 스마트폰 용량이 가득 참.<br>
-- 유사한 사진이 많아 잘 나온 사진을 찾기 어려움.<br>
-- 흔들린 사진이나 눈 감은 사진을 일일이 삭제해야 하는 번거로움.<br>
-- 아이폰과 안드로이드 모두에서 사용할 수 있는 공유앨범 앱의 부재.
-
-
-<br>
-
-![image 2544 (1)](https://github.com/user-attachments/assets/8e8cbfa6-8668-44b5-b196-34ebfef3b970)
-
-
-<p align='center'><b>누구나 한 번쯤 경험해본 불편함, 익숙하시죠?</b></p>
-<p align='center'><b>AI 기반 차세대 갤러리 앱, Pickle이 고민을 한번에 해결해 드립니다!</b></p>
-<p align='center'><b>당신의 사진을 Pick해 보세요!</b></p>
-<br><p align='center'><a href='https://fragrant-hospital-b08.notion.site/MAIN-PAGE-ac1ac9a4178d495a8e56e3b8cf4e65ac' target="_blank"><img alt='Notion' src='https://img.shields.io/badge/Notion-100000?style=for-the-badge&logo=Notion&logoColor=FFFFFF&labelColor=4C4A4A&color=8587D0'/></a>        
-<a href='https://youtu.be/M3VW_jy8OPc?si=UmsTFGfwoT_ey7r_' target="_blank"><img alt='Youtube' src='https://img.shields.io/badge/Youtube-100000?style=for-the-badge&logo=Youtube&logoColor=FFFFFF&labelColor=5F5D5D&color=FF0000'/></a>
+- 여행을 준비할 때, 무엇을 챙겨야 하는지 기억이 나지 않아 필요한 물건을 잊고 챙기지 못함 <br>
+- 여행은 시기, 도착지마다 챙겨야 할 것이 다르기에… 그때마다 새로운 품목을 고려하고 챙기는 건 어렵고 귀찮음 <br>
+- 맛집, 관광지, 환율등 여행지에 대한 정보를 한눈에 보기 번거로울 때 <br>
 
 <br/>
 
 ## ⭐️Main Function
-![image 2544](https://github.com/user-attachments/assets/910f1228-9065-4cbf-9214-a4b1594047e7)
+### 개인화된 여행 준비 체크리스트와 실시간 정보를 제공하여 효율적으로 준비 가능
+- 한눈에 볼 수 있는 챙길 것들과 물품 추천리스트 <br>
+![image](https://github.com/user-attachments/assets/77436106-f282-4c8b-a608-298ca88d2e84)
 
-<!-- 📷 유사한 사진들을 묶어드려요. 가장 잘 나온 사진을 선택하세요.<br>
-😌 흔들린 사진이나 눈 감은 사진은 자동으로 삭제해줘요.<br>
-#️⃣ 정리한 사진들을 그룹화해서 해시태그를 붙일 수 있어요.<br>
-🧑‍🧑‍🧒‍🧒 공유앨범에 멤버를 초대해서 같이 앨범을 꾸며보아요.<br> -->
+- 여행 목적에 맞게 자동으로 챙길 것을 세팅해주는 템플릿 <br>
+![image](https://github.com/user-attachments/assets/7d367843-437d-48a0-9bb9-ce48f0ac9288)
+
+- 인기 여행지에 대한 항공사별 수하물 규정, 환율, 맛집, 관광지, 기념품 정보 제공 <br>
+![image](https://github.com/user-attachments/assets/aa0f3262-a694-47c0-80ea-408981936d78)
+
 
 <br/>
 
