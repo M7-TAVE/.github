@@ -5,8 +5,6 @@
 
 ![image](https://github.com/user-attachments/assets/6d97fd8b-448c-4b23-b3f3-c6d27164b656)
 
-<br> <br/>
-
 ## 🤔Project Intention
 준비부터 실시간 정보 제공까지, 개인 맞춤형 추천과 간편한 UI로 완벽한 여행을 지원하는 올인원 웹 서비스
 
