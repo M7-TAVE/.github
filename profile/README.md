@@ -1,8 +1,6 @@
 # 여행 준비를 더 쉽게, 여행가방
 
-https://www.jionly.tech/
-
->TAVE 14기 연합 프로젝트
+>TAVE 14기 연합 프로젝트  https://www.jionly.tech
 
 ![image](https://github.com/user-attachments/assets/1313f40d-3cd0-4c02-9cf9-3fb97380bea7)
 
