@@ -18,13 +18,13 @@
 
 ## ⭐️Main Function
 ### 개인화된 여행 준비 체크리스트와 실시간 정보를 제공하여 효율적으로 준비 가능
-- 한눈에 볼 수 있는 챙길 것들과 물품 추천리스트 <br>
+#### 한눈에 볼 수 있는 챙길 것들과 물품 추천리스트 <br>
 ![image](https://github.com/user-attachments/assets/77436106-f282-4c8b-a608-298ca88d2e84)
 
-- 여행 목적에 맞게 자동으로 챙길 것을 세팅해주는 템플릿 <br>
+#### 여행 목적에 맞게 자동으로 챙길 것을 세팅해주는 템플릿 <br>
 ![image](https://github.com/user-attachments/assets/7d367843-437d-48a0-9bb9-ce48f0ac9288)
 
-- 인기 여행지에 대한 항공사별 수하물 규정, 환율, 맛집, 관광지, 기념품 정보 제공 <br>
+#### 인기 여행지에 대한 항공사별 수하물 규정, 환율, 맛집, 관광지, 기념품 정보 제공 <br>
 ![image](https://github.com/user-attachments/assets/aa0f3262-a694-47c0-80ea-408981936d78)
 
 
