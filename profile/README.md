@@ -73,5 +73,5 @@
 |  **박준우**  |  **정유빈**  |
 | :----------: | :----------: |
 | <img src="https://github.com/user-attachments/assets/ffc50be8-f57c-4d77-afa0-60dca693012b" width="150" /> | <img src="https://github.com/user-attachments/assets/82142e36-480f-4a6f-ac1a-fe29d7314811" width="150" />  |
-| [@jiwon](https://github.com/jiwon) | [@lee-yeonseo](https://github.com/lee-yeonseo) |
+| [@cire21st](https://github.com/cire21st) | [@yuubinj](https://github.com/yuubinj) |
 <br>
